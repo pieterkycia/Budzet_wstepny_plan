@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1602779163 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\date.cpp
+	"Date.h"
+
+1602748484 c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\date.h
+	<iostream>
+	<time.h>
+	<conio.h>
+
+1602748519 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1602779163 c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\filewithincomes.h
+	"Income.h"
+	<vector>
+	"Markup.h"
+
+1602756796 c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\income.h
+	<iostream>
+	"Date.h"
+
+1303067212 c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1602779163 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\income.cpp
+	"Income.h"
+
+1602778977 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\incomemanager.cpp
+	"IncomeManager.h"
+
+1602779163 c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\incomemanager.h
+	<iostream>
+	<vector>
+	"Income.h"
+	"FileWithIncomes.h"
+	<algorithm>
+
+1602781889 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\main.cpp
+	<iostream>
+	"IncomeManager.h"
+
+1303067212 source:c:\users\pieter\desktop\kurs c++\bud¿et_osobisty\budzet_wstepny_plan\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
